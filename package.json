@@ -19,9 +19,13 @@
   },
   "homepage": "https://github.com/anu3dev/backend-node#readme",
   "dependencies": {
+    "@langchain/core": "^1.1.46",
+    "@langchain/openai": "^1.4.5",
+    "@octokit/rest": "^22.0.1",
     "cors": "^2.8.6",
     "dotenv": "^17.4.2",
     "express": "^5.2.1",
-    "nodemailer": "^8.0.7"
+    "nodemailer": "^8.0.7",
+    "openai": "^6.37.0"
   }
 }
